@@ -1,16 +1,16 @@
-# Hola, soy Jhoan Fuentes 👋
+# Hello, I'm Jhoan Fuentes 👋
 
-## Economista & Científico de Datos
+## Economist & Data Scientist
 
-Soy Economista graduado de la **Universidad de los Andes**, con especializaciones en **Ciencia de Datos** e **Innovación Empresarial**. 
+I'm an Economist with a degree from **Universidad de los Andes**, with specializations in **Data Science** and **Entrepreneurial Innovation**.
 
-### 💼 Sobre mí
+### 💼 About Me
 
-Mi expertise se centra en la evaluación estratégica y formulación de políticas a través de la interpretación y análisis de KPIs utilizando recursos tecnológicos de vanguardia. Domino **Python**, **SQL** y **Machine Learning**, herramientas que aprovecho para el análisis de datos y modelado predictivo.
+My expertise revolves around strategic evaluation and policy formulation through insightful interpretation and analysis of KPIs utilizing state-of-the-art technological resources. I'm proficient in **Python**, **SQL**, and **Machine Learning**, tools that I leverage for data analysis and predictive modeling.
 
-Mis métodos analíticos son rigurosos y orientados a la excelencia, lo que me permite tomar decisiones fundamentadas en datos y enfocadas en resultados tangibles. Me impulsa una ferviente pasión por la investigación y estoy comprometido con impulsar un crecimiento exponencial en los diversos proyectos que emprendo.
+My analytical methods are thorough and oriented towards excellence, enabling me to make well-informed, data-driven decisions focused on tangible results. I'm driven by a fervent passion for research and committed to driving exponential growth in the various projects I undertake.
 
-### 🔧 Tecnologías y Herramientas
+### 🔧 Technologies & Tools
 
 <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -22,22 +22,22 @@ Mis métodos analíticos son rigurosos y orientados a la excelencia, lo que me p
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### 📊 Áreas de Especialización
+### 📊 Areas of Specialization
 
-- **Análisis de Datos & Interpretación** 
-- **Modelado Predictivo**
-- **Formulación de Políticas Basadas en Evidencia**
-- **Evaluación Estratégica**
-- **Innovación Empresarial**
+- **Data Analysis & Interpretation**
+- **Predictive Modeling**
+- **Evidence-Based Policy Formulation**
+- **Strategic Evaluation**
+- **Entrepreneurial Innovation**
 
-### 🚀 Filosofía Profesional
+### 🚀 Professional Philosophy
 
-Creo firmemente en que las decisiones impulsadas por datos son la base del progreso. Mi enfoque combina rigor analítico con una visión innovadora para transformar información en estrategias accionables que generen un impacto real.
+I firmly believe that data-driven decisions are the foundation of progress. My approach combines analytical rigor with an innovative vision to transform information into actionable strategies that generate real impact.
 
-### 📫 Conecta Conmigo
+### 📫 Connect With Me
 
-¡Siempre estoy abierto a colaboraciones y nuevas oportunidades! No dudes en contactarme para discutir proyectos interesantes o intercambiar ideas sobre economía, ciencia de datos o innovación.
+I'm always open to collaborations and new opportunities! Feel free to contact me to discuss interesting projects or exchange ideas about economics, data science, or innovation.
 
 ---
 
-*"Los datos son valiosos, pero es nuestra capacidad para interpretarlos lo que genera verdadero valor."*
+*"Data is valuable, but it's our capacity to interpret it that creates true value."*
